@@ -1,0 +1,7 @@
+package devops.demo.hello;
+
+public class HelloServer {
+    public static void main(String[] args) {
+        System.out.println("Hello, DevOps!");
+    }
+}
